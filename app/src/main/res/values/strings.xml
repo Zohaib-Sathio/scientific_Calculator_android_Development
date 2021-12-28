@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+
+    <string name="oneKey">1</string>
+    <string name="twoKey">2</string>
+    <string name="threeKey">3</string>
+    <string name="fourKey">4</string>
+    <string name="fiveKey">5</string>
+    <string name="sixKey">6</string>
+    <string name="sevenKey">7</string>
+    <string name="eightKey">8</string>
+    <string name="nineKey">9</string>
+    <string name="zeroKey">0</string>
+
+
+    <string name="clearText">C</string>
+    <string name="ParOpen">(</string>
+    <string name="parClose">)</string>
+    <string name="division">÷</string>
+    <string name="multiplication">×</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="equalsTo">=</string>
+    <string name="point">.</string>
+    <string name="delete">D</string>
+    <string name="enter_value">Enter value</string>
+
+    <string name="trigSinText">sin</string>
+    <string name="trigCosText">cos</string>
+    <string name="trigTanText">tan</string>
+    <string name="trigArcSinText">sin<sup><small>-1</small></sup></string>
+    <string name="trigArcCosText">cos<sup><small>-1</small></sup></string>
+    <string name="trigArcTanText">tan<sup><small>-1</small></sup></string>
+    <string name="naturalLogText">ln</string>
+    <string name="LogText">log</string>
+    <string name="squareRootText">√</string>
+    <string name="absoluteValueText">|x|</string>
+    <string name="piText">π</string>
+    <string name="eText">e</string>
+    <string name="xSquaredText">x<sup><small>2</small></sup></string>
+    <string name="xPowerYText">x<sup><small>y</small></sup></string>
+    <string name="isPrimeFunctionText">prime</string>
+    <string name="backspace"></string>
+</resources>
